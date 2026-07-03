@@ -1,20 +1,19 @@
-# Datenschutzerklärung — ExpenseMonitor
+# Datenschutzerklärung — Potte
 
 Stand: <2026-05-19>
 
-Vielen Dank, dass du ExpenseMonitor nutzt. Diese Erklärung beschreibt, welche Daten die App verarbeitet und welche Rechte du hast.
+Vielen Dank, dass du Potte nutzt. Diese Erklärung beschreibt, welche Daten die App verarbeitet und welche Rechte du hast.
 
 ## 1. Verantwortlicher
 
 Verantwortlicher im Sinne der DSGVO und sonstiger nationaler Datenschutzgesetze:
 
 Jodabytes
-
 E-Mail: jodabytes@gmail.com
 
 ## 2. Funktionsweise und Datenverarbeitung im Überblick
 
-ExpenseMonitor ist eine Offline-Anwendung zur persönlichen Finanzverwaltung.
+Potte ist eine Offline-Anwendung zur persönlichen Finanzverwaltung.
 
 - **Keine Datenübertragung an den Anbieter oder Dritte.** Alle von dir eingegebenen Daten (Posten, Dauerposten, Kategorien, Vorlagen, Bilder) werden ausschließlich lokal auf deinem Gerät gespeichert.
 - **Keine Konten, keine Anmeldung.** Es werden keine personenbezogenen Anmeldedaten erhoben.
